@@ -29,4 +29,7 @@ public class MywalprojApplication {
 	public void test5() {
 		System.out.println("This is a test5!!");
 	}
+	public void test6() {
+		System.out.println("This is a test6!!");
+	}
 }
