@@ -8,6 +8,12 @@ public class MywalprojApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(MywalprojApplication.class, args);
+
+
+	}
+
+	public void test() {
+		System.out.println("This is a test!!");
 	}
 
 }
