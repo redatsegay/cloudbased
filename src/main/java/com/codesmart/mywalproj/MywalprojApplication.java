@@ -32,4 +32,7 @@ public class MywalprojApplication {
 	public void test6() {
 		System.out.println("This is a test6!!");
 	}
+	public void test7() {
+		System.out.println("This is a test6!!");
+	}
 }
